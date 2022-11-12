@@ -136,6 +136,13 @@ button {
     color: #212622;
 }
 
+/* button:hover {
+    background-color: #b7765a;
+} */
+
+button:active {
+    background-color: #884b31;
+}
 
 #response {
     background-color: #fff;
