@@ -29,7 +29,7 @@ A collection of character information:
 I would love to add the following:
 - More characters. I've gotten through a good chunk of them, but I'd ideally love to get through all characters that appeared in the show for at least three or more episodes.
 - Expand on the API documentation beyond what is written in the Github ReadMe.
-- Add an About page to the site itself. This will explain the purpose.
+- Add an About page to the site itself
 
 ## Lessons Learned:
 I have learned the beauty of the Express public folder and the frustrated hair-pulling that results when you forget to use it. I kept wondering why my CSS and client-side JS were not properly rendering. 
