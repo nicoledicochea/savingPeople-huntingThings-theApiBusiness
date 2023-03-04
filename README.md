@@ -9,7 +9,7 @@ All the character data from the CW's television series *Supernatural* that anyon
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.JS, Express, Heroku
+**Tech used:** HTML, CSS, JavaScript, Node.JS, Express
 
 A collection of character information:
 
